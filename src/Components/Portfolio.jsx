@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "StudentKit 📱",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "App to create one for all platform for a students, to find lendale objects, be it tools for experiment, camera, laptop etc, within the insititute campus.",
+    url: "https://github.com/aliyabatoolalvi/StudentKit",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Badminton Counter App 🏸",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "App to keep track of badminton scores. It is a simple app to keep track of the score of a badminton game.",
+    url: "https://github.com/aliyabatoolalvi/BadmintonCounter",
   },
   {
-    title: "My Resume Site",
+    title: "My First Portfolio 👩‍💻👩‍💻",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/aliyabatoolalvi/My-portfolio",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: " Tech Planet 🌍",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "One app for all tech news, updates, and blogs. It is a platform where you can find all the latest tech and updates to buy.",
+    url: "https://github.com/aliyabatoolalvi/TechPlanet",
   },
 ];
 
